@@ -51,19 +51,19 @@ https://colab.research.google.com/github/vars16/AI-Code-Explainer/blob/main/AI%2
 _A clean pastel-purple UI built using Gradio, offering a smooth user experience._
 
 ![Image Alt](https://github.com/vars16/AI-Code-Explainer/blob/main/screenshots/Screenshot%20dropdown.png?raw=true)
-_Users can select the programming language before inputting the code for better contextual explanation._
+ _Users can select the programming language before inputting the code for better contextual explanation._
 
 ![Image Alt](https://github.com/vars16/AI-Code-Explainer/blob/main/screenshots/Screenshot%20Examples%20box.png?raw=true)
-_A dropdown provides example snippets to try instantly without typing._
+ _A dropdown provides example snippets to try instantly without typing._
 
 ![Image Alt](https://github.com/vars16/AI-Code-Explainer/blob/main/screenshots/Screenshot%20Your%20code%20UI.png?raw=true)
-_Write or paste your code directly into an interactive code box with syntax highlighting. Users can also download the code directly or copy code to clipboard with a single click._ 
+ _Write or paste your code directly into an interactive code box with syntax highlighting. Users can also download the code directly or copy code to clipboard with a single click._ 
 
 ![Image Alt](https://github.com/vars16/AI-Code-Explainer/blob/main/screenshots/Screenshot%20Explanation%20UI.png?raw=true)
-_The explanation box clearly describes: Purpose of the code, key components and logic, what the output will be and a sample use case or main method (for Java, etc)._
+ _The explanation box clearly describes: Purpose of the code, key components and logic, what the output will be and a sample use case or main method (for Java, etc)._
 
 ![Image Alt](https://github.com/vars16/AI-Code-Explainer/blob/main/screenshots/Screenshot%20final.png?raw=true)
-_final outlook of the AI Code Explainer._
+ _final outlook of the AI Code Explainer._
 
 ---
 
