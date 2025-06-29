@@ -47,13 +47,7 @@ https://colab.research.google.com/github/vars16/AI-Code-Explainer/blob/main/AI%2
 
 ## Screenshots
 
-_You can include screenshots of the interface here._
-
-Example:
-
-- Screenshot 1: Code input interface with language dropdown
-- Screenshot 2: Plain-English explanation output
-- Screenshot 3: Gradio UI with download and copy buttons
+![Image Alt](image_url)
 
 ---
 
