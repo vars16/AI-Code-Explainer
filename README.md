@@ -31,6 +31,17 @@ https://colab.research.google.com/github/vars16/AI-Code-Explainer/blob/main/AI%2
 
 ---
 
+## Technologies Used
+
+- Python 3.10+
+- Hugging Face Transformers
+- DeepSeek Code Model
+- Gradio (UI interface)
+- Google Colab (GPU runtime)
+- bitsandbytes (4-bit quantization)
+
+---
+
 ## How to Use (Colab)
 
 1. Click the "Open in Colab" badge above.
@@ -79,7 +90,7 @@ _Write or paste your code directly into an interactive code box with syntax high
 
 
 
-## #Explanation Box
+### Explanation Box
 
 ![Image Alt](https://github.com/vars16/AI-Code-Explainer/blob/main/screenshots/Screenshot%20Explanation%20UI.png?raw=true)
 
