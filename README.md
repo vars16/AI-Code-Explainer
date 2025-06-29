@@ -48,6 +48,7 @@ https://colab.research.google.com/github/vars16/AI-Code-Explainer/blob/main/AI%2
 ## Screenshots
 
 ![Image Alt](https://github.com/vars16/AI-Code-Explainer/blob/main/screenshots/Screenshot%20UI.png?raw=true)
+
 A clean pastel-purple UI built using Gradio, offering a smooth user experience.
 ---
 
