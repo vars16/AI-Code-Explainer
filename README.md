@@ -1,6 +1,6 @@
 # AI Code Explainer
 
-This project allows users to input code snippets written in Python, C, C++, or Java and get plain-English explanations powered by a large language model (LLM). It is ideal for beginners learning to program. The interface is built using Gradio and runs entirely in Google Colab with **GPU support**.
+This project allows users to input code snippets written in Python, C, C++, or Java and get plain-English explanations powered by a large language model (LLM). It is ideal for beginners learning to program. The interface is built using Gradio and runs entirely in Google Colab with **GPU support (T4 or better)**.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vars16/AI-Code-Explainer/blob/main/AI%20Code%20Explainer.ipynb)
 
