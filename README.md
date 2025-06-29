@@ -24,16 +24,6 @@ This project allows users to input code snippets written in Python, C, C++, or J
 
 ---
 
-## Project Structure 
-
-AI-Code-Explainer/
-├── AI Code Explainer.ipynb # Main Colab notebook with interface and model
-├── README.md # Project overview and usage instructions
-├── requirements.txt # Dependencies for local installation
-├── screenshots/ # Folder containing UI and output screenshots
-
----
-
 ## Try It Live
 
 Click the badge above or open directly:  
