@@ -110,23 +110,23 @@ _final outlook of the AI Code Explainer._
 
 This project runs as a Jupyter notebook. To run it locally:
 
-1. Clone the repository:
+**1. Clone the repository:**
 ```bash
 git clone https://github.com/vars16/AI-Code-Explainer.git
 cd AI-Code-Explainer
 ```
 
-2. Install dependencies:
+**2. Install dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Launch the notebook:
+**3. Launch the notebook:**
 ```bash
 jupyter notebook
 ```
 
-4. In the Jupyter interface that opens, navigate to `AI_Code_Explainer.ipynb`, open it and run all cells.
+**4. In the Jupyter interface that opens, navigate to `AI_Code_Explainer.ipynb`, open it and run all cells.**
 
 
 > This notebook **requires a GPU** with at least 10 GB VRAM.  
