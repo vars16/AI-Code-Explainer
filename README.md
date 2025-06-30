@@ -68,7 +68,7 @@ _A clean pastel-purple UI built using Gradio, offering a smooth user experience.
 
 ### Dropdown Box For Language
 
-![Image Alt](https://github.com/vars16/AI-Code-Explainer/blob/main/screenshots/Screenshot%20dropdown.png?raw=true)
+![Image Alt](https://github.com/vars16/AI-Code-Explainer/blob/main/screenshots/Screenshot%20dropdown%20lang.png?raw=true)
 
 _Users can select the programming language before inputting the code for better contextual explanation._
 
