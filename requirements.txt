@@ -4,3 +4,4 @@ bitsandbytes
 gradio
 torch
 sentencepiece
+notebook
