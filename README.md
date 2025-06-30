@@ -128,6 +128,7 @@ jupyter notebook
 
 4. In the Jupyter interface that opens, navigate to `AI_Code_Explainer.ipynb`, open it and run all cells.
 
+
 > This notebook **requires a GPU** with at least 10 GB VRAM.  
 > It may fail or run very slowly on CPU.
 
