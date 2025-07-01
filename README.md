@@ -139,10 +139,10 @@ jupyter notebook
 This notebook uses the `deepseek-ai/deepseek-coder-6.7b-instruct` model, which:
 
 - Requires a **GPU with at least 10 GB VRAM** (e.g., T4, V100, A100)
-- Will **not work** on most CPUs due to `bitsandbytes` GPU quantization
-- May run **extremely slowly** or crash if run on CPU
+- Will **not work or might be very slow** on most CPUs due to `bitsandbytes` GPU quantization
+- May run **extremely slowly** if run on CPU
 
-We strongly recommend using **Google Colab with GPU enabled**, or a local machine with a **CUDA-enabled GPU**. If your laptop or desktop has a compatible GPU, you may try running it locally using the instructions above.
+I strongly recommend using **Google Colab with GPU enabled**, or a local machine with a **CUDA-enabled GPU**. If your laptop or desktop has a compatible GPU, you may try running it locally using the instructions above.
 
 ---
 
